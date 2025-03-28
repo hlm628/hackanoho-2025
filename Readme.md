@@ -4,7 +4,7 @@ This repo is part of a workshop for the 2025 Hackanoho at UoA, designed to help 
 
 ## Prerequisites
 
-To participate in this workshop, you'll need to have the following installed:
+To participate in this workshop, you'll need to have the following:
 
 1. **[VS Code](https://code.visualstudio.com/)** - Visual Studio Code is required for this workshop, as we'll be using its features and extensions extensively for LLM-powered data science workflows. Click on the link to download and install.
 
