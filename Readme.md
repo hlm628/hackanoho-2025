@@ -15,16 +15,29 @@ To participate in this workshop, you'll need to have the following:
 
 ## Getting started
 
-1. Open VS Code. Select the Extensions view icon on the sidebar (or press `Ctrl+Shift+X`).
-2. Search for the `GitHub Pull Requests and Issues` extension and install it.
-3. You'll be prompted to sign in to your GitHub account - do this when prompted.
-4. Clone this repository to your local machine by clicking on the `Clone Repository` button in the Source Control view (or press `Ctrl+Shift+P` and type `Git: Clone`).
-5. Open the cloned repository in VS Code by clicking on the `Open Repository` button in the Source Control view (or press `Ctrl+Shift+P` and type `Git: Open Repository`).
-6. Return to the Extensions view and search for the `Github Copilot` extension. Install it. Also install the `Github Copilot Chat`, `Python` and `Jupyter` extensions. You will see the icons for these extensions in the sidebar.
-7. Set up your Pixi environment by running `pixi install` in the terminal.
-8. Run the command `pixi run start` in the terminal. This will start a Jupyter notebook server. You can access the server by clicking on the link that appears in the terminal. Take note of the URL and token that are displayed by the console output. Copy the URL to the clipboard.
-9. Open `hackanoho.ipynb` in VS Code. Click on the `Open in Notebook Editor` button that appears at the top of the file. This will open the notebook in the Jupyter notebook editor. 
+1. First, fork this repository to your own GitHub account:
+   - Navigate to the main repository page
+   - Click the "Fork" button in the top-right corner
+   - Select your GitHub account as the destination
+
+2. Open VS Code. Select the Extensions view icon on the sidebar (or press `Ctrl+Shift+X`).
+   
+3. Search for the `GitHub Pull Requests and Issues` extension and install it.
+   
+4. You'll be prompted to sign in to your GitHub account - do this when prompted.
+   
+5. Clone your forked repository (not the original) to your local machine:
+   - Click on the `Clone Repository` button in the Source Control view (or press `Ctrl+Shift+P` and type `Git: Clone`)
+   - Select your forked version of the repository from the list or paste its URL
+
+6. Open the cloned repository in VS Code by clicking on the `Open Repository` button.
+   
+7. Return to the Extensions view and search for the `Github Copilot` extension. Install it. Also install the `Github Copilot Chat`, `Python` and `Jupyter` extensions. You will see the icons for these extensions in the sidebar.
+   
+8. Set up your Pixi environment by running `pixi install` in the terminal.
+   
+9. Run the command `pixi run start` in the terminal. This will start a Jupyter notebook server. You can access the server by clicking on the link that appears in the terminal. Take note of the URL and token that are displayed by the console output. Copy the URL to the clipboard.
+   
+10. Open `hackanoho.ipynb` in VS Code. Click on the `Open in Notebook Editor` button that appears at the top of the file. This will open the notebook in the Jupyter notebook editor. 
 
 Once you have the notebook open, you can start running the cells, following the instructions, and asking Copilot for help when you need it. Have fun!
-
-
