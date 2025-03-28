@@ -25,6 +25,6 @@ To participate in this workshop, you'll need to have the following:
 8. Run the command `pixi run start` in the terminal. This will start a Jupyter notebook server. You can access the server by clicking on the link that appears in the terminal. Take note of the URL and token that are displayed by the console output. Copy the URL to the clipboard.
 9. Open `hackanoho.ipynb` in VS Code. Click on the `Open in Notebook Editor` button that appears at the top of the file. This will open the notebook in the Jupyter notebook editor. 
 
-
+Once you have the notebook open, you can start running the cells, following the instructions, and asking Copilot for help when you need it. Have fun!
 
 
