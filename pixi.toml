@@ -7,23 +7,9 @@ version = "0.1.0"
 
 [tasks]
 start = "jupyter lab"
-download-census = """
-mkdir -p data
-cd data
-if [ ! -f "census_2018_nz.zip" ]; then
-    echo "Downloading Census 2018 data..."
-    curl -L "https://www3.stats.govt.nz/2018census/SA1Dataset/Statistical%20Area%201%20dataset%20for%20Census%202018%20-%20total%20New%20Zealand%20-%20CSV_updated_16-7-20.zip" -o census_2018_nz.zip
-    echo "Unzipping Census 2018 data..."
-    python -c "import zipfile; zipfile.ZipFile('census_2018_nz.zip').extractall('.')"
-    echo "Download and extraction complete."
-else
-    echo "Census 2018 data already downloaded."
-fi
-"""
 
 [dependencies]
 jupyterlab = "4.*"
 pandas = ">=2.2.3,<3"
 numpy = ">=2.0.2,<3"
 matplotlib = ">=3.9.4,<4"
-curl = "*"
