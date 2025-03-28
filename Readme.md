@@ -1,6 +1,6 @@
 # Hackanoho 2025
 
-This repo is part of a workshop for the 2025 Hackanoho at UoA, designed to help students hack being a data scientist using Large Language Models (LLMs). We will see how we can use LLM integrations in a common IDE (integrated development environment) to "fake until we make it!"
+This repo is part of a workshop for the 2025 Hackanoho at UoA, designed to help students hack being a data scientist using Large Language Models (LLMs) and public datasets. We will see how we can use LLM integrations in a common IDE (integrated development environment) to "fake until we make it!"
 
 ## Prerequisites
 
