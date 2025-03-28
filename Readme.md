@@ -8,7 +8,7 @@ To participate in this workshop, you'll need to have the following:
 
 1. **[VS Code](https://code.visualstudio.com/)** - Visual Studio Code is required for this workshop, as we'll be using its features and extensions extensively for LLM-powered data science workflows. Click on the link to download and install.
 
-2. **[Github Account](https://github.com)** - You'll need a Github account (hopefully created in a previous session) to access and work with this repository. 
+2. **[A Github Account](https://github.com)** - You'll need a Github account (hopefully created in a previous session) to access and work with this repository. 
 
 3. **[Pixi](https://pixi.sh/latest/get_started/)** - A package management tool that helps manage dependencies and virtual environments.
     Install instructions vary by OS (Linux, Mac, Windows); the key thing is that all are supported.
