@@ -10,7 +10,7 @@ To participate in this workshop, you'll need to have the following:
 
 2. **[A Github Account](https://github.com)** - You'll need a Github account (hopefully created in a previous session) to access and work with this repository. 
 
-3. **[Pixi](https://pixi.sh/latest/get_started/)** - A package management tool that helps manage dependencies and virtual environments.
+3. **[Pixi](https://pixi.sh/latest/#get_started/)** - A package management tool that helps manage dependencies and virtual environments.
     Install instructions vary by OS (Linux, Mac, Windows); the key thing is that all are supported.
 
 ## Getting started
