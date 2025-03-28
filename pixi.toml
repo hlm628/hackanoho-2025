@@ -1,0 +1,10 @@
+[project]
+authors = ["hlm628 <henry@hlm628.com>"]
+channels = ["conda-forge"]
+name = "hackanoho-2025"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
